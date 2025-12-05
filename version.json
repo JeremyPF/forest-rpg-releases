@@ -1,10 +1,10 @@
 {
-  "version": "1.0.7",
-  "buildNumber": 8,
-  "downloadUrl": "https://github.com/JeremyPF/forest-rpg-releases/releases/download/v1.0.7/TheForest-v1.0.7.apk",
-  "fileSize": 33962963,
+  "version": "1.0.8",
+  "buildNumber": 9,
+  "downloadUrl": "https://github.com/JeremyPF/forest-rpg-releases/releases/download/v1.0.8/TheForest-v1.0.8.apk",
+  "fileSize": 33969315,
   "changelog": "Actualización automática desde GitHub Actions",
   "forceUpdate": false,
   "minVersion": "1.0.0",
-  "releaseDate": "2025-12-05T04:06:45Z"
+  "releaseDate": "2025-12-05T12:48:33Z"
 }
